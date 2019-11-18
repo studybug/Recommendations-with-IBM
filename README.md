@@ -15,12 +15,12 @@ Below you can see an example of what the dashboard could look like displaying ar
 * -	find the most popular articles simply based on the most interactions
 #### III. User-User Based Collaborative Filtering
 * -	clean the data for a matrix
-* -	look at users that are similar in terms of the items they have interacted with.
-* -	Provide recommendations for new users
+* -	look at users that are similar in terms of the items they have interacted with
+* -	provide recommendations for new users
 #### IV. Content Based Recommendations (EXTRA - NOT REQUIRED)
 * - use rake_nltk to sort for key words in articles and use cosine similarity to find relevance across users
 #### V. Matrix Factorization
-* - use a machine learning with SVD approach to building recommendations
+* - use machine learning and SVD approach to building recommendations
 * - perform assessment of the predicted vs. the actual values
 * - analyze the built recommendation system 
 
