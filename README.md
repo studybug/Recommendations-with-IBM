@@ -1,5 +1,5 @@
 # Recommendations-with-IBM
-Analyzed the interactions that users have with articles on the IBM Watson Studio platform, and made recommendations to them 
+Analyzed the interactions that users have with articles on the IBM Watson Studio platform, and made recommendations to them. 
 
 
 ## Introduction
