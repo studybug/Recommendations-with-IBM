@@ -4,8 +4,6 @@ Analyzed the interactions that users have with articles on the IBM Watson Studio
 
 ## Introduction
 For this project I analyzed user interactions of articles on the IBM Watson Studio platform, and used code to make recommendations for them about new articles that they will like. 
-Below you can see an example of what the dashboard could look like displaying articles on the IBM Watson Platform.
-
 
 ## Project Tasks
 
