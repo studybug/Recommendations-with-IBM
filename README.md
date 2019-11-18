@@ -30,6 +30,6 @@ Below you can see an example of what the dashboard could look like displaying ar
 * articles_community.csv, user-item-interactions.csv - raw data in a csv format
 * not included in github - user_item_matrix.p, project_tests.py, top_10.p, top_20.p, top_5.p
 
-# Added Installation
+## Added Installation
 * install rake-nltk package for nltk in part IV
 * other: pandas, numpy, matplotlib, project_tests, pickle, itertools, sklearn, nltk
